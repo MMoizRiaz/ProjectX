@@ -1,0 +1,6 @@
+# Must ignore files names
+Employee Salaries.txt
+
+# *.txt will ignore all txt files
+
+
